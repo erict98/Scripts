@@ -3,7 +3,7 @@ import os
 import json
 
 """
-Basic script that creates a directory from a mailing list and returns the email addresses based on given list of names.
+Script creates a directory from a mailing list (from Outlook) and returns the list of email addresses
 """
 directory = {}
 path = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
@@ -11,7 +11,7 @@ path = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
 """
 Reads the JSON or writes to the JSON based on the mailing list.
 """
-def create_dir():
+def create_dir(directory):
     mail = open(os.path.join(path, "mailing.txt"), "r")         # mailing list
     data = open(os.path.join(path, "directory.json"), "w+")     # directory
 
@@ -49,7 +49,7 @@ def create_dir():
 Reads the input of names and returns output of email addresses.
 Prints "ERROR: - <name>" if cannot be found.
 """
-def read_dir():
+def read_dir(directory):
     input = open(os.path.join(path, "input.txt"), "r")
     output = open(os.path.join(path, "output.txt"), "w")
     output.truncate()
@@ -72,5 +72,5 @@ def read_dir():
                     output.write("ERROR: " + name + "\n")
                 
 if __name__ == "__main__":
-    create_dir()
-    read_dir()
+    create_dir(directory)
+    read_dir(directory)

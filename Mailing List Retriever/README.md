@@ -1,0 +1,1 @@
+Script that when received an input file of names, will return an output with the contact's email addresses. Requires a directory of <name, email> in order to retrieve this information.

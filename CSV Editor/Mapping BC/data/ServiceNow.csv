@@ -1,0 +1,43 @@
+name,u_data_manager,u_data_manager_designee,u_data_custodian,it_application_owner,business_criticality
+ACL Suites,"Kerestus, Kevin J","Nevius, Aaron H","Cameron, Crystal L","Fisne, Joseph ",High
+ADMI,"Martin, Christa Lese",,"Trelease, Michael R","Fisne, Joseph ",Low
+ADMI Screener,"Martin, Christa Lese",,"Ditchey, Robert M","Fisne, Joseph ",Low
+Altimeter,"Yancoskie, Matthew M","Seibert, Michael J","Seibert, Michael J","Bennett, Daniel R",Low
+Audiology Database,"Frymoyer, Timothy A",,"Trelease, Michael R","Fisne, Joseph ",Medium
+Communication Preferences,"Sanders, John R",,"Michaels, James G","Michaels, James G",Low
+DBD Genes Database,"Martin, Christa Lese",,"Ditchey, Robert M","Fisne, Joseph ",Low
+ECHO,"Long, Angela M","Mull, Cindy L","Cameron, Crystal L","Fisne, Joseph ",High
+eICU Intervention Tool,"Fletcher, David ","Kopenhaver, Tracey A","Trelease, Michael R","Fisne, Joseph ",Medium
+EssetteSuite,"Faller, Lynn E","Hummel, Eric B","Wiehagen, Ryan J","Michaels, James G",Urgent
+gCMS,"Sciandra, Joann ","Faller, Lynn E","Wiehagen, Ryan J","Michaels, James G",Medium
+GHP NPI,"Hack, Michelle Lea","Dressler, Melissa A","Niedjaco, Felix C","Michaels, James G",Medium
+GHP RightFax,"Sciandra, Joann ","Marker, Travis Neil","Wiehagen, Ryan J","Michaels, James G",High
+GHS RightFax,"Andes, Joseph ","Hock, Timothy L","Cameron, Crystal L","Fisne, Joseph ",High
+go.geisinger.org,"Sommer, Sarah ","Minnig, William A","Trelease, Michael R","Fisne, Joseph ",Low
+Hugs and Kisses,"Walbeck, Megan K","Zlotek, Marlane ","Cameron, Crystal L","Fisne, Joseph ",High
+Interview Evaluation,"Campion, Julene ",,"Trelease, Michael R","Fisne, Joseph ",Low
+Issue Resolution Process,"Jordan, Robert R",,"Trelease, Michael R","Fisne, Joseph ",Low
+IV Therapy,"Jordan, Patrice A","Long, Michele A","Trelease, Michael R","Fisne, Joseph ",Low
+Live Capture,"Rohrer, Kimberly Cawley",,"Pursley, Edward E","Fisne, Joseph ",Medium
+Maestro,"Michalik, Kerri Christine","Tanyi, James Ayuk","Seybert, James ","Fisne, Joseph ",High
+Medi-Dose Prepack (Milt 4.0),"Parry, Dean T","Gregoire, Julia A","Evans, Scott M","Moyer, Marlin E",Medium
+MedInsight,"Hess, Andrea E",,"Niedjaco, Felix C","Michaels, James G",Low
+MyAccount,"Bennett, Daniel R",,"Fitzpatrick, Matthew J","Bennett, Daniel R",High
+OmniPro-I'mRT,"Michalik, Kerri Christine","Tanyi, James Ayuk","Seybert, James ","Fisne, Joseph ",High
+OR Assignment,"Gorgone, Courtney ",,"Trelease, Michael R","Fisne, Joseph ",Medium
+OutSystems Platform,"Michaels, James G","Waclawski, Alan ","Niedjaco, Felix C","Michaels, James G",High
+Paceart,"Frye, Susan E",,"Seybert, James ","Fisne, Joseph ",Medium
+ProGet,"Michaels, James G","Niedjaco, Felix C","Trelease, Michael R","Michaels, James G",Low
+RateManager,"Hack, Michelle Lea","Reffner, Mary T","Niedjaco, Felix C","Michaels, James G",Medium
+RC Charge Forms,"Vandermark, Allan W","Grozio, Theodore J","Trelease, Michael R","Fisne, Joseph ",High
+RC Security Forms,"Long, Angela M",,"Trelease, Michael R","Fisne, Joseph ",Low
+RescueNet Dispatch,"Nussbaum, Matthew D","Christophel, Paul N","Pursley, Edward E","Fisne, Joseph ",High
+Salesforce Services,"Fisne, Joseph ","Chaundy, Kimberly A","Cameron, Crystal L","Fisne, Joseph ",Medium
+SDS E-Business Server,"Michaels, James G","Tini, Joseph J","Niedjaco, Felix C","Michaels, James G",Low
+Serv-U MFT Server,"Michaels, James G","Tini, Joseph J","Niedjaco, Felix C","Michaels, James G",Low
+Tableau Server,"Strevig, Gregory A",,"Buehler, Robert S","Bennett, Daniel R",High
+Template Change Request Form,"Holtzapple, Leslie A",,"Trelease, Michael R","Fisne, Joseph ",Low
+TissueTrack,"Scopelliti, Maria E",,"Trelease, Michael R","Fisne, Joseph ",Low
+Tower Web Viewer,"Trafton, Kristina L","Lerch, Michele E","Wiehagen, Ryan J","Michaels, James G",Low
+TransSend,"Golimowski, John ","Fishburn, Jennifer R","Niedjaco, Felix C","Michaels, James G",Urgent
+WinAir,"Nussbaum, Matthew D","Splitt, Gerald J","Pursley, Edward E","Fisne, Joseph ",Urgent
