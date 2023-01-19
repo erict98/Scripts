@@ -1,1 +1,0 @@
-Maps the migration key dates from the migration schedule to the validation tracker.

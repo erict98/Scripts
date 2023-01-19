@@ -1,7 +1,0 @@
-TypeScript
-- npm install -D ts-node : allows for you to point to Typescript file, complie it and run with Node.js
-- npm install -D @types/node
-- npm install -D @types/express
-
-- npm install -D nodemon
-- npm run dev # will automatically update the server when changes are applied
